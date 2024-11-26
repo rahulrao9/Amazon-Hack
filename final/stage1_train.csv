@@ -1,0 +1,68 @@
+group_id,image_link,depth,height,width,embeddings_list,text_list,z_list
+101697,https://m.media-amazon.com/images/I/31knj8wPlkS.jpg,,,25.0 centimetre,"[array([array([0.11217505, 0.19134873, 0.25517115, ..., 0.13762046, 0.14862993,
+               0.13415317])                                                    ],
+       dtype=object)
+ array([array([0.13679823, 0.20182233, 0.102562  , ..., 0.08428659, 0.16461512,
+               0.13289674])                                                    ],
+       dtype=object)                                                             ]",['25.0 centimetre' '25.0 centimetre'],"[array([0.16407047, 0.14571945, 0.        , 1.        ])
+ array([0.16407047, 0.14571945, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/41FTsa9VyAL.jpg,,,37.5 centimetre,"[array([array([0.13420935, 0.23731096, 0.16199052, ..., 0.14269565, 0.11299731,
+               0.14600545])                                                    ],
+       dtype=object)                                                             ]",['29.5 centimetre'],"[array([0.16737555, 0.15114207, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/41MlQeYYuWL.jpg,41.91 centimetre,,,,,
+101697,https://m.media-amazon.com/images/I/41NAtX8yLkL.jpg,,,20.0 centimetre,"[array([array([0.11095024, 0.27434316, 0.27507502, ..., 0.17346561, 0.17585133,
+               0.29323992])                                                    ],
+       dtype=object)
+ array([array([0.11665236, 0.24884385, 0.16035056, ..., 0.12083083, 0.10690249,
+               0.23527543])                                                    ],
+       dtype=object)                                                             ]",['20.0 centimetre' '45.0 centimetre'],"[array([0.15971769, 0.13871543, 0.        , 1.        ])
+ array([0.17611246, 0.16590847, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/41OyX9WNNwL.jpg,,,20.0 centimetre,,,
+101697,https://m.media-amazon.com/images/I/41QhPwGJMEL.jpg,25.0 centimetre,,,"[array([array([0.11574553, 0.22510926, 0.27459618, ..., 0.14456056, 0.2100683 ,
+               0.12921305])                                                    ],
+       dtype=object)
+ array([array([0.14053941, 0.21629609, 0.15395442, ..., 0.11985577, 0.20220803,
+               0.12779891])                                                    ],
+       dtype=object)                                                             ]",['25.0 centimetre' '25.0 centimetre'],"[array([0.16407047, 0.14571945, 0.        , 1.        ])
+ array([0.16407047, 0.14571945, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/41f3ysJyYWL.jpg,60.0 centimetre,,,"[array([array([0.13217089, 0.19394203, 0.27396813, ..., 0.14342399, 0.17762622,
+               0.10777184])                                                    ],
+       dtype=object)
+ array([array([0.16562501, 0.19830342, 0.07890622, ..., 0.08566651, 0.19296195,
+               0.06307367])                                                    ],
+       dtype=object)                                                             ]",['23.6 inch' '15.7 inch'],"[array([0.18230391, 0.17674984, 0.        , 1.        ])
+ array([0.17356672, 0.16154139, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/41x7oPEmhxL.jpg,50.0 centimetre,,,"[array([array([0.10851352, 0.23296979, 0.15667012, ..., 0.08050407, 0.15131985,
+               0.15094399])                                                    ],
+       dtype=object)                                                             ]",['150.0 centimetre'],"[array([0.20360836, 0.21641794, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/51+sV+fV5rL.jpg,400.0 millimetre,,300.0 millimetre,"[array([array([0.08985422, 0.15034269, 0.24033226, ..., 0.12167025, 0.18381914,
+               0.07849565])                                                    ],
+       dtype=object)
+ array([array([0.11812506, 0.20701042, 0.17968234, ..., 0.12595829, 0.15336765,
+               0.11102593])                                                    ],
+       dtype=object)                                                             ]",['300.0 millimetre' '400.0 millimetre'],"[array([0.16771486, 0.15170387, 0.        , 1.        ])
+ array([0.17363063, 0.16165037, 0.        , 1.        ])]"
+101697,https://m.media-amazon.com/images/I/51-f+FvRQ5L.jpg,,,22.0 centimetre,"[array([array([0.15804259, 0.27943885, 0.2823264 , ..., 0.14523481, 0.19115669,
+               0.21256539])                                                    ],
+       dtype=object)
+ array([array([0.15409061, 0.24689706, 0.17683856, ..., 0.10638884, 0.18872397,
+               0.12383136])                                                    ],
+       dtype=object)
+ array([array([0.18530525, 0.28430197, 0.23987645, ..., 0.1108068 , 0.16919233,
+               0.17968234])                                                    ],
+       dtype=object)
+ array([array([0.17196459, 0.24880703, 0.20601001, ..., 0.12455793, 0.19792344,
+               0.15284064])                                                    ],
+       dtype=object)
+ array([array([0.13296832, 0.26173732, 0.2238023 , ..., 0.13362172, 0.19013122,
+               0.14660789])                                                    ],
+       dtype=object)
+ array([array([0.16992432, 0.26818931, 0.16874427, ..., 0.14455602, 0.18338762,
+               0.16017519])                                                    ],
+       dtype=object)                                                             ]","['6.5 centimetre' '8.66 inch' '4.44 inch' '3.14 inch' '4.8 inch'
+ '4.8 inch']","[array([0.13948781, 0.1082365 , 0.        , 1.        ])
+ array([0.16155937, 0.14165973, 0.        , 1.        ])
+ array([0.14906361, 0.12223612, 0.        , 1.        ])
+ array([0.14296918, 0.1132367 , 0.        , 1.        ])
+ array([0.15047054, 0.124358  , 0.        , 1.        ])
+ array([0.15047054, 0.124358  , 0.        , 1.        ])]"

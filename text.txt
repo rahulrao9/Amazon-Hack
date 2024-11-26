@@ -1,0 +1,26 @@
+image_link,group_id,entity_name,entity_value,emb1,zList1,[0,1,0,0],
+image_link,group_id,entity_name,entity_value,emb2,zlist2,[1,0,0,0]
+image_link,group_id,entity_name,entity_value,emb3,zlist3,[0,0,0,1]
+image_link,group_id,entity_name,entity_value,emb4,zlist4,[0,0,0,1]
+image_link,group_id,entity_name,entity_value,emb5,zlist5,[0,0,0,1]
+image_link,group_id,entity_name,entity_value,emb6,zlist6,[0,0,0,1]
+
+
+                     HEIGHT WIDTH DEPTH
+image_link,group_id, 10 CM, 30 CM, NA, EMBEDDING, PARSE_VALUE, [0.8,0.02,0.001,1], [0,0,1,0]
+
+                     
+image_link,group_id, HEIGHT, WIDTH, DEPTH, EMBEDDING, PARSE_VALUE, z_bar, [0,0,1,0]
+
+
+    2,34,5,6
+12
+21
+3
+12
+3
+123
+123
+.
+.
+. 2048
